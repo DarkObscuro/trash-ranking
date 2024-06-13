@@ -1,2 +1,2 @@
 # trash-ranking
-A toxiv site
+A toxic site
